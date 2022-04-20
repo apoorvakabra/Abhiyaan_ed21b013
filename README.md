@@ -12,7 +12,7 @@ ED21B013
 Previous Experience:
 Participated in coding contests
 Got 3rd in techsoc electronics event
-Co-authored a book in Robotics
+
 
 Current PORs:
 None
@@ -56,7 +56,9 @@ https://www.youtube.com/watch?v=vLnPwxZdW4Y
 for sensor question-
 https://www.udacity.com/blog/2021/03/how-self-driving-cars-work-sensor-systems.html
 https://link.springer.com/chapter/10.1007/978-94-011-4790-3_7
-
+https://www.itransition.com/blog/autonomous-vehicle-sensors
+https://appen.com/blog/what-is-sensor-fusion/
+https://resources.system-analysis.cadence.com/blog/msa2022-the-use-of-radar-technology-in-autonomous-vehicles
 for opencv question:
 https://www.geeksforgeeks.org/find-circles-and-ellipses-in-an-image-using-opencv-python/
 opencv documentaries
