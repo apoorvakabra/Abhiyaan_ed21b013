@@ -1,0 +1,2 @@
+abhiyaan_package
+-DCATKIN_DEVEL_PREFIX=/home/apoorvakabra/abhiyaan_ros/devel -DCMAKE_INSTALL_PREFIX=/home/apoorvakabra/abhiyaan_ros/install -G Unix Makefiles
